@@ -1,0 +1,173 @@
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-in.xml.gz,https://iptv-epg.org/files/epg-us.xml.gz,https://iptv-epg.org/files/epg-ae.xml.gz"
+#EXTINF:0 tvg-logo="https://i.imgur.com/4qZQKjo.png" tvg-name="ATN News" tvg-id="ATNNews.bd" group-title="Bangladesh News" tvg-chno="1",ATN News
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d52325d2e006b34346d2d313708195c196c3759.m3u8
+#EXTINF:0 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1735648543857_Poster.jpg&w=3840&q=75" tvg-name="BTV News" tvg-id="BTVNews.bd" group-title="Bangladesh News" tvg-chno="2",BTV News
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61441b3945173b6f2b3935040217592c254f1f151c0604321d595c5236135720000067.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/4JLkaF7.png" tvg-name="Channel 24" tvg-id="Channel24.bd" group-title="Bangladesh News" tvg-chno="3",Channel 24
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d6f213d3d0b0b122a6d2d313708195c196c3759.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qbt6q4z.png" tvg-name="DBC News" tvg-id="DBCNews.bd" group-title="Bangladesh News" tvg-chno="4",DBC News
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d46155d4f19580f6f330228035f003f392e0a18184e070d013a4a1e5f052653.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/zoLwwUK.png" tvg-name="Ekattor TV" tvg-id="EkattorTV.bd" group-title="Bangladesh News" tvg-chno="5",Ekattor TV HD
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d73042f0b1b06242c29233e21372427363d7111394e070d013a4a1e5f052653.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/tRrDh6z.png" tvg-name="Ekhon TV" tvg-id="EkhonTV.bd" group-title="Bangladesh News" tvg-chno="6",Ekhon TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61441e215c173e2e30297d1e1500113e2f4e050f0a061d715f03470e.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/POXFhGN.png" tvg-name="Independent TV" tvg-id="IndependentTV.bd" group-title="Bangladesh News" tvg-chno="7",Independent TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d37327e000e1c1d2d370d421501134a1f5f5f5c5f211e15127a063323290000204e02183e3b4e050f0a06153a5c54575827340d3b1d186c377c.m3u8
+#EXTINF:0 tvg-logo="https://www.jamuna.tv/uploads/settings/jtv-logo-whitelogo-1-1754573204.png" tvg-name="Jamuna TV" tvg-id="JamunaTV.bd" group-title="Bangladesh News" tvg-chno="8",Jamuna TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d7d140f230857346833156b60090c221f382950064e070d013a4a1e5f052653.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/ijuJfmd.png" tvg-name="News 21 Bangla TV" tvg-id="News21BanglaTV.bd" group-title="Bangladesh News" tvg-chno="9",News 21 Bangla TV
+https://go.skym3u.top/live/367c3/3b1f0d3d095a7073746c7d5c58425a6e715242575659546601051d58361c0a7f0219363421703f0417175b2f2e00150d071011715f03470e.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/fkTHh75.png" tvg-name="News 24" tvg-id="News24.bd" group-title="Bangladesh News" tvg-chno="10",News 24
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d55370c0b7e470269152b18642718201a1320085c4e070d013a4a1e5f052653.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/XcJZKg4.png" tvg-name="Nexus TV" tvg-id="NexusTV.bd" group-title="Bangladesh News" tvg-chno="11",Nexus TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d7323064e1a41333e6d2d313708195c196c3759.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MBm2gPz.jpeg" tvg-name="Rajdhani TV" tvg-id="RajdhaniTV.bd" group-title="Bangladesh News" tvg-chno="12",Rajdhani TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d372b2108001f5a2c2a001e080f11162a445f1c553c0656255f066a6d363e390909131a3621000e0d0b4d086c4708.m3u8
+#EXTINF:0 group-title="Bangladesh News" tvg-chno="13",Somoy Tv
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d020b0808295c031538263d105436163e1e7b06074e070d013a4a1e5f052653.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Star_News_Bangladesh_Logo.svg/1280px-Star_News_Bangladesh_Logo.svg.png" tvg-name="Star News" tvg-id="StarNews.bd" group-title="Bangladesh News" tvg-chno="14",Star News
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61440a3952073127332c31094f01002d2700014e1e0f04265e5941427d064a380b.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/jkbo7Qe.png" tvg-name="Ananda TV" tvg-id="AnandaTV.bd" group-title="Bangladesh Entertainment" tvg-chno="15",Ananda TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61441823521b3b2330297d1e1500113e2f4e050f0a061d715f03470e.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/jkbo7Qe.png" tvg-name="Ananda TV" tvg-id="AnandaTV.bd" group-title="Bangladesh Entertainment" tvg-chno="16",Ananda TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d7a363e382007336e2b2d270a031241076c0c0e024e070d013a4a1e5f052653.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/k2adSjA.png" tvg-name="Asian TV" tvg-id="AsianTV.bd" group-title="Bangladesh Entertainment" tvg-chno="17",Asian TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d292b3f041717072b30040d0c40000a321d585e457c0a0a24521b703b30333a1b045d1d312604144f03501067.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/K1HmMRz.png" tvg-name="ATN Bangla" tvg-id="ATNBangla.bd" group-title="Bangladesh Entertainment" tvg-chno="18",ATN Bangla
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f475a3e3b0f0d0e1a174b3c5d5d1d6660124b1861121875081b3642081c103a3a4f01521b5b.m3u8
+#EXTINF:0 group-title="Bangladesh Entertainment" tvg-chno="19",Bangla 1
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d323637080e435a3827151f151c0604325a5f41423a051e63501a32787566605b4e170d3c33021612160804705749514730110a3558147032283e2a01080100712f521959.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/DLGjTfI.png" tvg-name="Bangla TV" tvg-id="BanglaTV.bd" group-title="Bangladesh Entertainment" tvg-chno="20",Bangla TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d056a0e1c74001b0a20071c3e00543e07260655184e070d013a4a1e5f052653.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/nCWgp38.png" tvg-name="Bangla Vision" tvg-id="BanglaVision.bd" group-title="Bangladesh Entertainment" tvg-chno="21",Bangla Vision
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f475a3e3b0f0d0e1a174b3c5d5d1d42343e033d6316663072272442081c103a3a4f01521b5b.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Faetm0C.png" tvg-name="Bijoy TV" tvg-id="BijoyTV.bd" group-title="Bangladesh Entertainment" tvg-chno="22",Bijoy TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d372b2108001f5a3036151c0d1b104b335b4657193f020f281c1736282b260c19172d153d304e050f0a061d715f03470e.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/gxL05Y4.png" tvg-name="Boishakhi TV" tvg-id="BoishakhiTV.bd" group-title="Bangladesh Entertainment" tvg-chno="23",Boishakhi TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d0737580c0a0a231c25360d6a29330623050f545b4e070d013a4a1e5f052653.m3u8
+#EXTINF:56 group-title="Bangladesh Entertainment" tvg-chno="24",BTV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d5923393c2f6b392e087617153431312c0b08230d4e070d013a4a1e5f052653.m3u8
+#EXTINF:0 group-title="Bangladesh Entertainment" tvg-chno="25",Channel 1
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61441a25521b3127286e31094f01002d2700014e1e0f04265e5941427d064a380b.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xf5YuoE.png" tvg-name="Channel 9" tvg-id="Channel9.bd" group-title="Bangladesh Entertainment" tvg-chno="26",Channel 9
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d2b28210e0e04172d321842061e0001311c5e57427c0909261e01296d756861544e1d012b3214184e070d013a4a1e5f052653.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/X0JJlOX.png" tvg-name="Channel I" tvg-id="ChannelI.bd" group-title="Bangladesh Entertainment" tvg-chno="27",Channel I
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d701d2309144532057502341028504224281629014e070d013a4a1e5f052653.m3u8
+#EXTINF:0 tvg-logo="https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" tvg-name="Channel S" tvg-id="ChannelS.bd" group-title="Bangladesh Entertainment" tvg-chno="28",Channel S
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61441a25521b3127282c7d1e1500113e2f4e050f0a061d715f03470e.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/F62GUqS.png" tvg-name="Deepto TV" tvg-id="DeeptoTV.bd" group-title="Bangladesh Entertainment" tvg-chno="29",Deepto TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d26262305051518333b0a42061e0001311c5e57427c03153e1c113a27342b3c19175d1d312604144f03501067.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/ItrZok1.png" tvg-name="Desh TV" tvg-id="DeshTV.bd" group-title="Bangladesh Entertainment" tvg-chno="30",Desh TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61441d28401d2b346a2c271f041319702b0f0804164d086c4708.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/wQbiGs6.png" tvg-name="Enter-Film" tvg-id="EnterFilm.ua" group-title="Bangladesh Entertainment" tvg-chno="31",Enter-Film
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d28362508505c113136041e15184d06305f1e50527c0e173956072b346b363d09040a5a392f11584f03501067.m3u8
+#EXTINF:0 group-title="Bangladesh Entertainment" tvg-chno="32",EP TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61441c3d47037131302d360c0c5d0433231800081d174b3201450a.m3u8
+#EXTINF:0 group-title="Bangladesh Entertainment" tvg-chno="33",G TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f475a3e3b0f0d0e1a174b3c5d5d1d64321d1a7a54251c1834273842081c103a3a4f01521b5b.m3u8
+#EXTINF:0 group-title="Bangladesh Entertainment" tvg-chno="34",Global TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61443e215c173e2e692b25431206063a230c4308000700271c5d01436b.m3u8
+#EXTINF:0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" tvg-name="Green TV" tvg-id="GreenTV.bd" group-title="Bangladesh Entertainment" tvg-chno="35",Green TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61441e3f5610313632712019131715326d0802050b1b4b3201450a.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/uVZJMed.png" tvg-name="Maasranga TV" tvg-id="MaasrangaTV.bd" group-title="Bangladesh Entertainment" tvg-chno="36",Maasranga TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d292b254312071a2f2e04144f020a133a1d7d7377003938037434702b2a3b36154f1f472a7a.m3u8
+#EXTINF:0 group-title="Bangladesh Entertainment" tvg-chno="37",Me Tv
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d2d2f271b03165a332b17094e0306112903000a067c5a4975035b32713167.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/E6doEWH.png" tvg-name="Mohona TV" tvg-id="MohonaTV.bd" group-title="Bangladesh Entertainment" tvg-chno="38",Mohona TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f614414225b1a312330297d1e1500113e2f4e050f0a061d715f03470e.m3u8
+#EXTINF:0 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681" tvg-name="Movie Bangla" tvg-id="MovieBangla.bd" group-title="Bangladesh Entertainment" tvg-chno="39",Movie Bangla
+https://go.skym3u.top/live/367c3/3b1f0d3d095a702328293619175c17302f4e010e180a003d535e555a321f0f620b4567726b363d09040a5a32711454.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/475qK5T.png" tvg-name="My TV" tvg-id="MyTV.bd" group-title="Bangladesh Entertainment" tvg-chno="40",My TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f614414344703723734723c0b075c072b30040d0c410a0b3b57481c5b601e41.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/aRDvQpl.png" tvg-name="Nagorik TV" tvg-id="NagorikTV.bd" group-title="Bangladesh Entertainment" tvg-chno="41",Nagorik TV
+https://go.skym3u.top/live/367c3/3b1f0d3d095a7073746c7d5c54435a69734f5d53412d04385d425b5d0c3f2f62451c3b272b713e5e144a.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/l75bDTx.png" tvg-name="NTV" tvg-id="NTV.bd" group-title="Bangladesh Entertainment" tvg-chno="42",NTV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f475a3e3b0f0d0e1a174b3c5d5d1d4e055f130878136c067d253042081c103a3a4f01521b5b.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/yu8ugqt.png" tvg-name="RTV" tvg-id="RTV.bd" group-title="Bangladesh Entertainment" tvg-chno="43",RTV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61440b3945582c256a2c271f041319702b0f0804164d086c4708.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/tL9kxxB.png" tvg-name="SA TV" tvg-id="SATV.bd" group-title="Bangladesh Entertainment" tvg-chno="44",SA TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d4416272124462007332638293d03424211320e014e070d013a4a1e5f052653.m3u8
+#EXTINF:0 group-title="Bangladesh Entertainment" tvg-chno="45",SRK
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d372d38030e05152f324f02020f1100715e5944537c180b264703372e37283c09131f5b2c300a18174010112d57515f19230718345f1c2c366a32601859.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png?lock=720x540" tvg-name="Sony Aath" tvg-id="SonyAath.in" group-title="Indian Bangla" tvg-chno="46",Sony Aath
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162415f5c4f320a0d251510626c296c2655.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6CT.png?lock=720x540" tvg-name="Zee Bangla" tvg-id="ZeeBangla.in" group-title="Indian Bangla" tvg-chno="47",Zee Bangla
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a016248555769310a172a5f14792779713e5e144a.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/1nPtakc.png" tvg-name="Zee Bangla Cinema" tvg-id="ZeeBanglaCinema.in" group-title="Indian Bangla" tvg-chno="48",Zee Bangla Cinema
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a016248555769310a172a5f1400212d313600005411626c0c5f1456.m3u8
+#EXTINF:0 group-title="Hindi Entertainment" tvg-chno="49",&TV HD
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162535e5669271d262557533a7f6a32601859.m3u8
+#EXTINF:0 group-title="Hindi Entertainment" tvg-chno="50",Ekushe TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d252f235f555c1e3e250e0e0540000a321c52561930582f345718093b1c67011d033721660f085419201a5d267f76767316233e2e5527383815691d392015101a2d000927140123660069654e1a312d0203206f273e1162241b3f0d39340229051d26033a7655795f1d002f0300250b0d293b151e0425262b233659500f0a35375c60667f61441c26460637273d2b2540595f1b2d254f1f151c0604321d595c5236135720000067.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png?lock=720x540" tvg-name="Sony Entertainment Television" tvg-id="SonyEntertainmentTelevision.in" group-title="Hindi Entertainment" tvg-chno="51",Sony Entertainment Television
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162415f5c4f0c0e173956072b232d313e080f06523a7f4f01521b5b.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png?lock=720x540" tvg-name="Sony Entertainment Television" tvg-id="SonyEntertainmentTelevision.in" group-title="Hindi Entertainment" tvg-chno="52",Sony Entertainment Television HD
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162415f5c4f36050d2841013e2b2a323d193e1a1079275c420c5d165d.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" tvg-name="Sony SAB" tvg-id="SonySAB.in" group-title="Hindi Entertainment" tvg-chno="53",Sony SAB HD
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162415f5c4f200a1b125b11792779713e5e144a.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/rskUQ83.png" tvg-name="Zee Anmol" tvg-id="ZeeAnmol.in" group-title="Hindi Entertainment" tvg-chno="54",Zee Anmol
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a016248555769320514225f533a7f6a32601859.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZMMH.png?lock=720x540" tvg-name="Zee Cafe" tvg-id="ZeeCafe.in" group-title="Hindi Entertainment" tvg-chno="55",Zee Cafe
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a016248555769300a1f286c1d3b6421627d0052074c.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLG3.png?lock=720x540" tvg-name="Zee TV" tvg-id="ZeeTV.in" group-title="Hindi Entertainment" tvg-chno="56",Zee TV HD
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a016248555769271d262557533a7f6a32601859.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540" tvg-name="&pictures" tvg-id="Andpictures.in" group-title="Hindi Movies" tvg-chno="57",&pictures HD
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162535e56463a080d384110002a207936504f1f472a7a.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" tvg-name="B4U Movies" tvg-id="B4UMovies.in" group-title="Hindi Movies" tvg-chno="58",B4U Movies
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162500447693e040f245606792779713e5e144a.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" tvg-name="Sony Max" tvg-id="SonyMax.in" group-title="Hindi Movies" tvg-chno="59",Sony Max
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162415f5c4f0c0618351510626c296c2655.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png?lock=720x540" tvg-name="Sony Max 2" tvg-id="SonyMax2.in" group-title="Hindi Movies" tvg-chno="60",Sony Max 2
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162415f5c4f3e0a011201533a7f6a32601859.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" tvg-name="Sony Max" tvg-id="SonyMax.in" group-title="Hindi Movies" tvg-chno="61",Sony Max HD
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162415f5c4f0c0618356c1d3b6421627d0052074c.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/s143802_ld_h15_aa.png?lock=720x540" tvg-name="Sony Pix" tvg-id="SonyPix.in" group-title="Hindi Movies" tvg-chno="62",Sony Pix HD
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162415f5c4f230201125b11792779713e5e144a.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" tvg-name="Zee Action" tvg-id="ZeeAction.in" group-title="Hindi Movies" tvg-chno="63",Zee Action
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a01624855576932080d245c1b792779713e5e144a.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540" tvg-name="Zee Bollywood" tvg-id="ZeeBollywood.in" group-title="Hindi Movies" tvg-chno="64",Zee Bollywood
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a016248555769310415214a02302d207936504f1f472a7a.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" tvg-name="Zee Cinema" tvg-id="ZeeCinema.in" group-title="Hindi Movies" tvg-chno="65",Zee Cinema HD
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a016248555769300217285e14002a207936504f1f472a7a.m3u8
+#EXTINF:0 group-title="Pakistani" tvg-chno="66",Hum Masala
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a01625a455f693e0a0a2c5f14792779713e5e144a.m3u8
+#EXTINF:0 group-title="Pakistani" tvg-chno="67",Hum Sitarey
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a01625a455f6920020d2c4114266421627d0052074c.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" tvg-name="Hum TV" tvg-id="HumTV.pk" group-title="Pakistani" tvg-chno="68",Hum TV
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a01625a455f69271d5f280e5b32713167.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" tvg-name="B4U Music" tvg-id="B4UMusic.in" group-title="Music" tvg-chno="69",B4U Music
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162500447693e1e0a2450533a7f6a32601859.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" tvg-name="Zing!" tvg-id="Zing.in" group-title="Music" tvg-chno="70",Zing!
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a016248595c510c181d6b5648712f772a6b.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-name="Animal Planet" tvg-id="AnimalPlanet.au" group-title="Documentaries" tvg-chno="71",Animal Planet
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162535e5b5b3207263d5f14312730002009471749712f521959.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-name="Animal Planet" tvg-id="AnimalPlanet.au" group-title="Documentaries" tvg-chno="72",Animal Planet HD
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162535e5b5b3207263d5f14312730003b09471749712f521959.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/bZpe8af.png" tvg-name="Discovery" tvg-id="Discovery.de" group-title="Documentaries" tvg-chno="73",Discovery
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162565941553c1d1c3f4a2a2c26623a6e430c410167.m3u8
+#EXTINF:0 group-title="Documentaries" tvg-chno="74",Discovery HD
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162565941553c1d1c3f4a2a3726623a6e430c410167.m3u8
+#EXTINF:0 group-title="Documentaries" tvg-chno="75",Discovery Science
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162565941553c1d1c3f4a2a2c212d3a3d0e045411626c0c5f1456.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/osCVMop.png" tvg-name="Discovery Turbo" tvg-id="DiscoveryTurbo.au" group-title="Documentaries" tvg-chno="76",Discovery Turbo
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162565941553c1d1c3f4a2a2b37363d3c4b044f5a32711454.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-name="Investigation Discovery" tvg-id="InvestigationDiscovery.au" group-title="Documentaries" tvg-chno="77",Investigation Discovery HD
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162565941553c1d183f4a2a362c323a20190815152b2b0e023e0607433a0f1e5f052653.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/s143799_ld_h15_aa.png?lock=720x540" tvg-name="Sony BBC Earth" tvg-id="SonyBBCEarth.in" group-title="Documentaries" tvg-chno="78",Sony BBC Earth HD
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162415f5c4f31091a1256142d362c003b09471749712f521959.m3u8
+#EXTINF:0 group-title="Documentaries" tvg-chno="79",TLC
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162465c5169200f5f280e5b32713167.m3u8
+#EXTINF:0 group-title="Documentaries" tvg-chno="80",TLC HD
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162465c5169200f5f280e5b32713167.m3u8
+#EXTINF:0 group-title="Kids" tvg-chno="81",Cartoon Network
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162515140423c0417125d102b352b2d38321216523a7f4f01521b5b.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/pH6ao2T.png" tvg-name="Cartoon Network HD+" tvg-id="CartoonNetworkHDPlus.in" group-title="Kids" tvg-chno="82",Cartoon Network HD+
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162515140423c0417125d102b352b2d38320916523a7f4f01521b5b.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/2JPtmZR.png" tvg-name="Discovery Kids" tvg-id="DiscoveryKids.au" group-title="Kids" tvg-chno="83",Discovery Kids
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162565941553c1d1c3f4a2a342b202c75085c5c196c3759.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png?lock=720x540" tvg-name="Pogo" tvg-id="Pogo.in" group-title="Kids" tvg-chno="84",Pogo
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162425f55590c181d6b5648712f772a6b.m3u8
+#EXTINF:0 tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" tvg-name="Sony Yay!" tvg-id="SonyYay.in" group-title="Kids" tvg-chno="85",Sony Yay!
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162415f5c4f2a0a006b5648712f772a6b.m3u8
+#EXTINF:0 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" tvg-name="CNN" tvg-id="CNN.us" group-title="News" tvg-chno="86",CNN
+https://go.skym3u.top/live/367c3/3b1f0d3d404f706d29393f04191d002b6c02030c41171370465f5450360e542f4a583223362a35420d1b023a6c110411510a0162515e5c1036565720000067.m3u8
